@@ -22,5 +22,5 @@ Alpha could be calculated by the ratio of the  K  values for the two components:
 ![image](https://user-images.githubusercontent.com/99058835/223165423-6dc9c884-9334-4ed3-beb2-6f7e6ca9fcc9.png)
 ```
 print(f"El numero de platos de la torre de destilacion requeridos para la separacion es: {i}")
-El numero de platos de la torre de destilacion requeridos para la separacion es: **7**
+El numero de platos de la torre de destilacion requeridos para la separacion es: 7
 ```
