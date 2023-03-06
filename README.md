@@ -1,4 +1,4 @@
-#McCabe-Thiele
+# McCabe-Thiele
 
 This jupyter notebook describes the calculation of the number of plates necessary for the separation of two compounds according to the **McCabe-Thiele method**
 
